@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.App {
+    margin: 50px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+button {
+    width: 5%;
+    height: 2rem;
+    padding: 5px;
+    background-color: azure;
+    border-radius: 10px;
+}
+
+span {
+    margin: 0 20px;
+}
+
+hr {
+    width: 5%;
+}
